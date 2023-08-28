@@ -121,7 +121,7 @@ ul li span:hover {
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     justify-content: center;
-    font-family: 'Abel', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     background-color: rgba(0, 0, 0, 0.103);
     color: #fff;
     border-radius: 10px;
@@ -131,7 +131,8 @@ ul li span:hover {
 
 .footer h3 {
     /* letter-spacing: 0.1em; */
-    font-size: 12px;
+    font-size: 14px;
+    font-family: 'Roboto Condensed', sans-serif;
     border-radius: 50%;
 }
 
