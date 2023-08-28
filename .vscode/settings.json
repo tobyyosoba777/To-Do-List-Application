@@ -1,3 +1,4 @@
 {
-    "livePreview.portNumber": 3005
+    "livePreview.portNumber": 3005,
+    "liveServer.settings.port": 5509
 }
