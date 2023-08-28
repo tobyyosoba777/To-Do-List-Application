@@ -10,6 +10,11 @@
             "src": "images/icons8-todo-list-arcade-96.png",
             "sizes": "96x96",
             "type": "image/png"
+        },
+        {
+            "src": "images/download.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ]
 }
