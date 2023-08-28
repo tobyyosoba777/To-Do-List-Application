@@ -110,10 +110,14 @@ ul li span:hover {
     background: #edeef0;
 }
 
-.footer {
+.footer {    
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
+    max-width: 240px;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
     justify-content: center;
     font-family: 'Abel', sans-serif;
     background-color: rgba(0, 0, 0, 0.103);
