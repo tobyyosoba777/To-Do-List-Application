@@ -116,16 +116,16 @@ ul li span:hover {
     align-items: center;
     justify-content: center;
     font-family: 'Abel', sans-serif;
-    background-color: rgba(0, 0, 0, 0.459);
+    background-color: rgba(0, 0, 0, 0.103);
     color: #fff;
     border-radius: 10px;
     padding: 12px;
-    margin-top: 50px;
+    margin-top: 80px;
 }
 
 .footer h3 {
     /* letter-spacing: 0.1em; */
-    font-size: 15px;
+    font-size: 12px;
     border-radius: 50%;
 }
 
