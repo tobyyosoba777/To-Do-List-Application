@@ -7,7 +7,7 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "images/icons8-uncheck-all-96.png",
+            "src": "images/icons8-todo-list-arcade-96.png",
             "sizes": "96x96",
             "type": "image/png"
         },
