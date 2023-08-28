@@ -1,0 +1,20 @@
+{
+    "name": "To-Do List",
+    "short_name": "To-Do Lists",
+    "start_url": ".",
+    "background_color": "#fff",
+    "theme_color": "#0066ff",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "image/weather-icon.jpg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "image/weather-icon2.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
