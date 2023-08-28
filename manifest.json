@@ -10,11 +10,6 @@
             "src": "images/icons8-todo-list-arcade-96.png",
             "sizes": "96x96",
             "type": "image/png"
-        },
-        {
-            "src": "image/weather-icon2.jpg",
-            "sizes": "512x512",
-            "type": "image/png"
         }
     ]
 }
