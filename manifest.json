@@ -3,7 +3,7 @@
     "short_name": "To-Do Lists",
     "start_url": ".",
     "background_color": "#fff",
-    "theme_color": "#0066ff",
+    "theme_color": "#4e085f",
     "display": "standalone",
     "icons": [
         {
