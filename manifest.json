@@ -7,8 +7,8 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "image/",
-            "sizes": "192x192",
+            "src": "images/icons8-uncheck-all-96.png",
+            "sizes": "96x96",
             "type": "image/png"
         },
         {
