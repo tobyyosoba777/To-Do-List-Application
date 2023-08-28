@@ -140,7 +140,6 @@ ul li span:hover {
     input {
         padding: 2px;
         font-size: 90%;
-        width: calc(100% - 150px);
     
     }
     button {
